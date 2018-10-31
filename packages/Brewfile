@@ -1,0 +1,52 @@
+
+# https://docs.brew.sh/Taps
+# === Taps ===
+
+tap "colindean/fonts-nonfree"
+tap "drud/ddev"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/fuse"
+tap "homebrew/services"
+
+# https://github.com/Homebrew/homebrew-cask
+# Homebrew Cask extends Homebrew and brings its elegance, simplicity, and speed
+# to the installation and management of GUI macOS applications such as Atom and Google Chrome.
+# === Casks ===
+
+# IDEs
+cask "sublime-text"
+cask "visual-studio-code"
+
+# Developer Tools
+cask "docker"
+
+# https://git-fork.com/
+cask "fork"
+
+
+# Browsers
+cask "google-chrome"
+
+
+# Work Tools
+# cask "dropbox"
+# cask "evernote"
+#cask "gnucash"
+cask "google-drive"
+#cask "grammarly"
+# cask "itsycal"
+# cask "rambox"
+cask "slack"
+cask "zoomus"
+
+
+# Media
+# cask "kid3"
+# cask "gimp"
+# cask "handbrake"
+# #cask "jubler"
+# cask "paintbrush"
+# cask "rawtherapee"
+cask "vlc"
