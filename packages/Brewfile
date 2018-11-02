@@ -24,6 +24,12 @@ cask "docker"
 # https://git-fork.com/
 cask "fork"
 
+cask "iterm2"
+# cask "kdiff3"
+cask "lando"
+# cask "meld"
+# cask "mongodb-compass-community"
+cask "postman"
 
 # Browsers
 cask "google-chrome"
