@@ -7,7 +7,6 @@ tap "drud/ddev"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
-tap "osxfuse"
 tap "homebrew/services"
 
 # https://github.com/Homebrew/homebrew-cask
